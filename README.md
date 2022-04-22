@@ -1,3 +1,10 @@
+# tips(Written by ty)
+`sudo -s`
+
+
+
+
+
 joulehunter 
 =========== 
 [![Unit tests](https://github.com/powerapi-ng/joulehunter/actions/workflows/test.yaml/badge.svg)](https://github.com/powerapi-ng/joulehunter/actions/workflows/test.yaml)
